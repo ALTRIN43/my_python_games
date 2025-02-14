@@ -21,6 +21,8 @@ This project is a simple Pong game built using Python's **Turtle** module. It fe
 
 The game ends when one player reaches the winning score.
 
+Just give it a go :)
+
 ## Project Structure
 
 - **main.py**: The main game logic, which initializes the screen, paddles, ball, and score system, and handles game controls and gameplay.
