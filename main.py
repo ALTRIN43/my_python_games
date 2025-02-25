@@ -7,7 +7,7 @@ import time
 screen = Screen()
 screen.setup(800, 600)
 screen.bgcolor('black')
-screen.title("PONG GAME")
+screen.title("THE PONG")
 screen.tracer(0)
 
 r_paddle = Paddle((350, 0))
